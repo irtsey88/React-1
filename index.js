@@ -131,7 +131,8 @@ function App() {
                       src={url}
                       alt="副圖"
                       className="me-2 mb-2"
-                      width="100"
+                      height="160px"
+                      weight="auto"
                     />
                   ))}
                 </div>
